@@ -33,8 +33,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shuhenglonghorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuhenglonghorn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shuhenglonghorn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuhenglonghorn" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@shuhenglonghorn" target="blank">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-1024.png" alt="shuhenglonghorn" height="50" width="50" />
+  </a>
 </p>
+
 
 ## Languages and Tools
 
