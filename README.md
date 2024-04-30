@@ -75,5 +75,3 @@ Postman | NodeJS | Gurobi | Excel Node X | Excel @Risk
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzmsh&show_icons=true&locale=en&layout=compact" alt="hzmsh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzmsh&show_icons=true&locale=en" alt="hzmsh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hzmsh&" alt="hzmsh" /></p>
