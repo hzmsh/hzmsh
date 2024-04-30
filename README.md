@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-  An enthusiastic data & applied scientist @
+  An enthusiastic data & applied scientist graduated from
   <img src="https://dl.boxcloud.com/api/2.0/internal_files/553032638689/versions/586232029489/representations/jpg_paged_2048x2048/content/1.jpg?access_token=1!QLKdiuyNqG9UNuAhRfzlw2dQkGxMrlXlHtsA2eAIukbDVurWrkPNRsTMOBj_igOPx60aF_XxRmLbnvZuuCEn3yyx-d3uyXGyp0i_5kMeEix-86l7NeNNymBVrcsw_lN4kGB92UMtxZ84zISvd3kMDNcE5zJMza8_JLGmkLSq9nScO-Zz13CR7hOzQwmDbsQhKXp9p3JxskdC3k0QnA351GG3X2QDNYzpklDRNUBtYW_Aw99qH8Dxm1MpSETDKlQocpF6x8sP_1Dhrdu6ilX0QcSuxbDicutkeUgjhlBV3nZdjHxtoIQZa6m4tf50HEYOXZ8nnPgIyowQ5qRyhsEgsLHv6vaD9vFg98BtKCNAGrup4Qy3cWGPsfiv_kHgdJrDQVQZk7zp2k8-pprckbEzcxm3qjcHI5_FTXrJ6ZvTj4TiCs--cYsS2ZkTGrSatCcCEsYbHN58d-FdFB3cQzrKjbW6XE6tmGGk9W8tCgY4v2c6oGCEao_Dq6BwSeK0rViFsHuNaoxpd4fjVk9ZQVVwIX44V_p4sAppydO_aQb5MmGfAaD2LXPB5Zs-Ycyb-HKEmmyqpIU4Q0wDDsu6yPWIYxN7K91-WW7sDzPmwOvhD5ESyWYSTgjDMWsyYABmKg7SgZ-2dnE_z6OGeTdHdHCgIgO3HL3OeI7vpfTDpcoYbcUKf-cdXZiTPPII-uoG5LABXQPIwmUPJIPo2ueAcB2GDp6Rvlbz-fDyQlsZU1QYeL0Z5kaA1g..&shared_link=https%3A%2F%2Fupenn.app.box.com%2Fs%2Fq1n6ruraotfqxmjkbwciv28eb44px2o1&box_client_name=box-content-preview&box_client_version=2.104.0" alt="Penn Emblem" style="vertical-align:middle;" width="100"> <!-- Adjust the width as necessary -->
   
 </h3>
