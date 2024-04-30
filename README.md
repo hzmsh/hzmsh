@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shuhenglonghorn/](https://www.linkedin.com/in/shuhenglonghorn/)
 
-- ⚡ Fun fact **Running Towards First Marathon**
+- ⚡ Fun fact: **I recently completed my first half marathon at the Texas Irvine Marathon and am now enthusiastically training towards my first full marathon.** 🏃 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
