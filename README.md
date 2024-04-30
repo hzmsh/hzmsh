@@ -72,7 +72,7 @@ Jira | Miro | LucidChart | Teams | Slack
 Postman | NodeJS | Gurobi | Excel Node X | Excel @Risk
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=ME366J_Python,ChatBot,IBM_Capstone" alt="hzmsh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=?" alt="hzmsh" /></p>
 
 
 
