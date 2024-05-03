@@ -57,7 +57,7 @@ MongoDB | PostgreSQL (PGAdmin) | Oracle | AWS RDS | SQLite
 Hadoop | Spark | MapReduce
 
 ### ☁️ Cloud Services
-AWS Lambda | AWS S3 | Google Cloud Platform | Microsoft Azure
+Amazon Web Services (Lambda|S3|EC2|RDS|VPC|IAM)| Google Cloud Platform | Microsoft Azure
 
 ### 🔧 Development Tools
 Eclipse | Git | Docker | Vagrant
