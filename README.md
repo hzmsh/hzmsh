@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">Hi 👋, I'm Shuheng (Markus) Ma</h1>
 
+<p align="center">
+  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=?&hide_progress=True&langs_count=20" />
+  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api?username=hzmsh&count_private=true&include_all_commits=true&theme=graywhite&hide=prs,issues" />
+</p>
 
 <h3 align="center">
   An enthusiastic data & applied scientist graduated from
@@ -70,13 +74,5 @@ Jira | Miro | LucidChart | Teams | Slack
 
 ### 📦 Others
 Postman | NodeJS | Gurobi | Excel Node X | Excel @Risk
-
-
-<p>
-  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=?&hide_progress=True&langs_count=20" alt="hzmsh's Most Used Languages" />
-</p>
-<p>
-  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api?username=hzmsh&count_private=true&include_all_commits=true&theme=graywhite&hide=prs,issues" alt="hzmsh's GitHub Stats" />
-</p>
 
 
