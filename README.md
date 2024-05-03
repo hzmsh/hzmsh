@@ -3,20 +3,6 @@
 </p>
 <h1 align="center">Hi 👋, I'm Shuheng (Markus) Ma</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=?&hide_progress=True&langs_count=20" />
-  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api?username=hzmsh&count_private=true&include_all_commits=true&theme=graywhite&hide=prs,issues" />
-</p>
-
-<h3 align="center">
-  An enthusiastic data & applied scientist graduated from
-  <img src="https://delafuentelab.seas.upenn.edu/wp-content/uploads/2018/10/Logo-UPenn-2.jpg" alt="Penn Emblem" style="vertical-align:middle;" width="100"> <!-- Adjust the width as necessary -->
-  
-</h3>
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzmsh&label=Profile%20views&color=0e75b6&style=flat" alt="hzmsh" /> </p>
 
 - 🔭 I’m currently working on **Dynamic Data Backup System for Power BI Workspaces**
@@ -76,3 +62,6 @@ Jira | Miro | LucidChart | Teams | Slack
 Postman | NodeJS | Gurobi | Excel Node X | Excel @Risk
 
 
+  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=?&hide_progress=True&langs_count=20" alt="hzmsh's Most Used Languages" />
+
+  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api?username=hzmsh&count_private=true&include_all_commits=true&theme=graywhite&hide=prs,issues" alt="hzmsh's GitHub Stats" />
