@@ -62,6 +62,6 @@ Jira | Miro | LucidChart | Teams | Slack
 Postman | NodeJS | Gurobi | Excel Node X | Excel @Risk
 
 
-  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=?&hide_progress=True&langs_count=20" alt="hzmsh's Most Used Languages" />
+  <img src="https://github-readme-stats-kappa-orpin.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=?&hide_progress=True&langs_count=20" alt="hzmsh's Most Used Languages" />
 
-  <img src="https://github-readme-stats-seven-sable-28.vercel.app/api?username=hzmsh&count_private=true&include_all_commits=true&theme=graywhite&hide=prs,issues" alt="hzmsh's GitHub Stats" />
+  <img src="https://github-readme-stats-kappa-orpin.vercel.app/api?username=hzmsh&count_private=true&include_all_commits=true&theme=graywhite&hide=prs,issues" alt="hzmsh's GitHub Stats" />
