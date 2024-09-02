@@ -65,4 +65,4 @@ Postman | NodeJS | Gurobi | Excel Node X | Excel @Risk
   <img src="https://github-readme-stats-kappa-orpin.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=?&hide_progress=True&langs_count=20" alt="hzmsh's Most Used Languages" />
 
   <img src="https://github-readme-stats-kappa-orpin.vercel.app/api?username=hzmsh&rank_icon=percentile&include_all_commits=true&theme=graywhite&hide=prs,issues" alt="hzmsh's GitHub Stats" />
-   <img src="https://github-readme-stats-kappa-orpin.vercel.app/api?username=hzmsh&include_all_commits=true&theme=graywhite&hide=stars,commits,prs,issues,contribs" alt="hzmsh's GitHub Stats" />
+
