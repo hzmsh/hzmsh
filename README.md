@@ -65,11 +65,4 @@
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hzmsh&show_icons=true&theme=radical&hide_border=true&hide_rank=true&v=3" alt="hzmsh's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzmsh&layout=compact&theme=radical&hide_border=true&v=3" alt="Top Langs" height="150" />
-</p>
+ 
