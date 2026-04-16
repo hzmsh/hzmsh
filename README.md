@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Shuheng (Markus) Ma</h1>
-  <h3>Data Scientist & Engineer | Cloud Aficionado | Marathon Runner</h3>
+  <h3>Senior Data Engineer | Cloud & AI Architect | Marathon Runner</h3>
 </div>
 
 <p align="center">
@@ -12,9 +12,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on a **Dynamic Data Backup System for Power BI Workspaces**
-- 🌱 I’m currently expanding my expertise in the **AWS Ecosystem**
-- 📝 I regularly write articles about Data Science and Tech on [Medium](https://medium.com/@shuhenglonghorn)
+- 🔭 I am a Senior Data Engineer & Applied Scientist specializing in **AWS Serverless Architectures, Distributed Big Data pipelines, and GenAI integrations**.
+- 💼 Currently architecting event-driven geospatial risk engines and intelligent document processing (IDP) systems for Tokio Marine Highland.
+- 🎓 I hold an M.S. in Computer Science from the **University of Pennsylvania**, and dual degrees (M.S. Business Analytics & B.S. Eng/Econ) from **UT Austin**.
+- 🌱 I am a published patent holder in cloud infrastructure (IPC: G06F11/14) and 2x AWS Certified (Solutions Architect & Data Engineer).
+- 📝 I regularly write articles dissecting Data Science and Cloud Architecture on [Medium](https://medium.com/@shuhenglonghorn).
 - ⚡ **Fun fact:** I recently completed my first half marathon at the Texas Irvine Marathon and am training for my first full marathon! 🏃
 
 ---
@@ -46,6 +48,7 @@
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 **Visualization**  
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
