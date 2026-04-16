@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Shuheng (Markus) Ma</h1>
-  <h3>Senior Data Engineer | Cloud & AI Architect | Marathon Runner</h3>
+  <h3>Senior Data & Applied Scientist | Cloud & AI Architect | Marathon Runner</h3>
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I am a Senior Data Engineer specializing in **AWS Serverless Architectures, Distributed Big Data pipelines, and GenAI integrations**.
+- 🔭 I am a Senior Data & Applied Scientist specializing in **AWS Serverless Architectures, Distributed Big Data pipelines, and GenAI integrations**.
 - 💼 Currently architecting event-driven geospatial risk engines and intelligent document processing systems.
 - 🎓 I hold a **Master of Applied Science in Computer Science** from the **University of Pennsylvania**.
 - 🌱 I am a published patent holder in cloud infrastructure and 2x AWS Certified (Solutions Architect & Data Engineer).
