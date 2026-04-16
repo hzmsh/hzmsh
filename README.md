@@ -1,68 +1,61 @@
+<div align="center">
+  <h1>Hi 👋, I'm Shuheng (Markus) Ma</h1>
+  <h3>Data Scientist & Engineer | Cloud Aficionado | Marathon Runner</h3>
+</div>
+
 <p align="center">
-  <img src="https://m.media-amazon.com/images/I/81X-wpXOIEL.__AC_SY300_SX300_QL70_FMwebp_.jpg" width="500">
-</p>
-<h1 align="center">Hi 👋, I'm Shuheng (Markus) Ma</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hzmsh&label=Profile%20views&color=0e75b6&style=flat" alt="hzmsh" /> </p>
-
-- 🔭 I’m currently working on **Dynamic Data Backup System for Power BI Workspaces**
-
-- 🌱 I’m currently learning **AWS Tech Set**
-
-- 👨‍💻 All of my projects are available at [https://medium.com/@shuhenglonghorn](https://medium.com/@shuhenglonghorn)
-
-- 📝 I regularly write articles on [https://medium.com/@shuhenglonghorn](https://medium.com/@shuhenglonghorn)
-
-- 💬 Ask me about **Data Engineer/Data Scientist Stuff**
-
-- 📫 How to reach me **markusma@alumni.upenn.edu**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/shuhenglonghorn/](https://www.linkedin.com/in/shuhenglonghorn/)
-
-- ⚡ Fun fact: **I recently completed my first half marathon at the Texas Irvine Marathon and am now enthusiastically training towards my first full marathon.** 🏃 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shuhenglonghorn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuhenglonghorn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@shuhenglonghorn" target="blank">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-1024.png" alt="shuhenglonghorn" height="50" width="50" />
-  </a>
+  <a href="https://www.linkedin.com/in/shuhenglonghorn/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@shuhenglonghorn"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:markusma@alumni.upenn.edu"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+---
 
-## Languages and Tools
+### 👨‍💻 About Me
+- 🔭 I’m currently working on a **Dynamic Data Backup System for Power BI Workspaces**
+- 🌱 I’m currently expanding my expertise in the **AWS Ecosystem**
+- 📝 I regularly write articles about Data Science and Tech on [Medium](https://medium.com/@shuhenglonghorn)
+- ⚡ **Fun fact:** I recently completed my first half marathon at the Texas Irvine Marathon and am training for my first full marathon! 🏃
 
-### 🖥️ Programming Languages
-Python (Pandas) | Java | C | R | SQL | NoSQL | MATLAB | Assembly Language | DAX (Power BI) | SAS
+---
 
-### 🤖 Machine Learning and Data Analysis
-Jupyter Notebook | PyCharm | Rstudio | SPSS | Stata | SAS | Scikit-Learn | TensorFlow | PyTorch | Seaborn
+### 🛠️ Tech Stack & Tools
 
-### 🗃️ Databases
-MongoDB | PostgreSQL (PGAdmin) | Oracle | AWS RDS | SQLite
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-### 📈 Big Data Technologies
-Hadoop | Spark | MapReduce
+**Data & Machine Learning**  
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=flat&logo=apachehadoop&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
 
-### ☁️ Cloud Services
-Amazon Web Services (Lambda|S3|EC2|RDS|VPC|IAM)| Google Cloud Platform | Microsoft Azure
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-### 🔧 Development Tools
-Eclipse | Git | Docker | Vagrant
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-### 📊 Visualization and Reporting Tools
-Power BI | Tableau | Carto | QGIS | JMP
+**Visualization**  
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
-### 🤝 Collaboration and Project Management
-Jira | Miro | LucidChart | Teams | Slack
+---
 
-### 📦 Others
-Postman | NodeJS | Gurobi | Excel Node X | Excel @Risk
+### 📊 GitHub Stats
 
-
-  <img src="https://github-readme-stats-kappa-orpin.vercel.app/api/top-langs/?username=hzmsh&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=?&hide_progress=True&langs_count=20" alt="hzmsh's Most Used Languages" />
-
-  <img src="https://github-readme-stats-kappa-orpin.vercel.app/api?username=hzmsh&rank_icon=percentile&include_all_commits=true&theme=graywhite&hide=prs,issues" alt="hzmsh's GitHub Stats" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hzmsh&show_icons=true&theme=radical&hide_border=true" alt="hzmsh's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzmsh&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
+</p>
