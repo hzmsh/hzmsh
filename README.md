@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Shuheng (Markus) Ma</h1>
+  <h1>Hi 👋, I'm Markus Ma</h1>
   <h3>Senior Data & Applied Scientist | Cloud & AI Architect | Marathon Runner</h3>
 </div>
 
