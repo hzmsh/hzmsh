@@ -31,5 +31,5 @@ Cloud infrastructure · Data engineering · Machine learning · Quantitative res
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hzmsh&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide=issues,prs&theme=transparent" alt="GitHub contribution stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hzmsh&theme=minimal&hide_border=true&area=true&custom_title=Contribution+activity" alt="GitHub contribution activity" />
 </p>
