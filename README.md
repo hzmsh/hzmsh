@@ -16,7 +16,7 @@ Senior individual contributor across **cloud architecture**, **distributed syste
 
 Master of Applied Science in Computer Science · **University of Pennsylvania**
 
-Patent holder (China) · AWS Certified Solutions Architect · AWS Certified Data Engineer
+Patent holder · AWS Certified Solutions Architect · AWS Certified Data Engineer
 
 ---
 
