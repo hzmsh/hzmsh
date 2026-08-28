@@ -29,7 +29,3 @@ Cloud infrastructure · Data engineering · Machine learning · Quantitative res
 <sub>Articles and thought leadership on [Medium](https://medium.com/@shuhenglonghorn). Inquiries via [LinkedIn](https://www.linkedin.com/in/shuhenglonghorn/).</sub>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hzmsh&theme=minimal&hide_border=true&area=true&custom_title=Contribution+activity" alt="GitHub contribution activity" />
-</p>
