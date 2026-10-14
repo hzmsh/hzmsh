@@ -1,6 +1,6 @@
 <div align="center">
 
-# Markus Ma
+# Shuheng (Markus) Ma
 
 **Senior Data & Applied Scientist**
 
