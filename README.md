@@ -4,7 +4,6 @@
 
 **Senior Data & Applied Scientist**
 
-<sub>[LinkedIn](https://www.linkedin.com/in/shuhenglonghorn/) · [Medium](https://medium.com/@shuhenglonghorn)</sub>
 
 </div>
 
