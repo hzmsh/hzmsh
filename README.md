@@ -24,4 +24,6 @@ Patent holder · AWS Certified Solutions Architect · AWS Certified Data Enginee
 Cloud infrastructure · Data engineering · Machine learning · Quantitative research
 
 ---
+### Open source
 
+- **pydantic-settings** (4B+ downloads)
