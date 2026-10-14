@@ -25,6 +25,3 @@ Cloud infrastructure · Data engineering · Machine learning · Quantitative res
 
 ---
 
-<sub>Articles and thought leadership on [Medium](https://medium.com/@shuhenglonghorn). Inquiries via [LinkedIn](https://www.linkedin.com/in/shuhenglonghorn/).</sub>
-
----
